@@ -16,7 +16,7 @@ the repo directory structure above, it takes you to
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
 are told that the you can't view big raw files. Cue: sad face. Let's fix that!
 
-https://user-images.githubusercontent.com/10285037/110196466-92505900-7df9-11eb-89e0-e7a7ff822a05.mp4
+![motivation](https://user-images.githubusercontent.com/10285037/110196466-92505900-7df9-11eb-89e0-e7a7ff822a05.mp4)
 
 ### Option 1: raw.githack.com
 
