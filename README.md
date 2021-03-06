@@ -14,9 +14,11 @@ Luckily, there are two easily solutions. This repo aims to show off both.
 I'll use the `lecture/lecture.html` file contained in this repo to demonstrate. If you click through
 the repo directory structure above, it takes you to 
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
-are told that the you can't view big raw files. Cue: sad face. Let's fix that!
+are told that the you can't view big raw files. Cue: sad face. 
 
 ![](example-01.gif)
+
+Let's fix that!
 
 ### Option 1: raw.githack.com
 
@@ -37,6 +39,8 @@ https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.html
 Click on the second link yourself to see how much we are winning. You can similarly do so for the 
 [PDF](https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.pdf) version and see that
 it renders in-browser with options to print, resize, etc.
+
+Here's a GIF walkthrough of me completing these steps.
 
 ![](example-02.gif)
 
@@ -66,5 +70,7 @@ http://grantmcdermott.com/example/lecture/lecture.html
 and
 
 http://grantmcdermott.com/example/lecture/lecture.pdf
+
+Again, here's a GIF walkthrough of me completing these steps.
 
 ![](example-03.gif)
