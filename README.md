@@ -9,10 +9,14 @@ you might for PDFs rendered in your browser).
 
 Luckily, there are two easily solutions. This repo aims to show off both.
 
+### Motivation
+
 I'll use the `lecture/lecture.html` file contained in this repo to demonstrate. If you click through
 the repo directory structure above, it takes you to 
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
 are told that the you can't view big raw files. Cue: sad face. Let's fix that!
+
+https://user-images.githubusercontent.com/10285037/110196466-92505900-7df9-11eb-89e0-e7a7ff822a05.mp4
 
 ### Option 1: raw.githack.com
 
@@ -33,6 +37,8 @@ https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.html
 Click on the second link yourself to see how much we are winning. You can similarly do so for the 
 [PDF](https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.pdf) version and see that
 it renders in-browser with options to print, resize, etc.
+
+https://user-images.githubusercontent.com/10285037/110196481-a85e1980-7df9-11eb-87a3-9e7f4988033a.mp4
 
 ### Option 2: Switch to gh-pages branch
 
@@ -60,3 +66,7 @@ http://grantmcdermott.com/example/lecture/lecture.html
 and
 
 http://grantmcdermott.com/example/lecture/lecture.pdf
+
+
+https://user-images.githubusercontent.com/10285037/110196491-bad85300-7df9-11eb-93fb-fbd450fe534d.mp4
+
