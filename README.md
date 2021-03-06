@@ -9,8 +9,8 @@ you might for PDFs rendered in your browser).
 
 Luckily, there are two easily solutions. This repo aims to show off both.
 
-I'll use the `lecture/lecture.html` file contained in this repo to demonstrate. If you click on the
-through the repo directories above, it takes you to 
+I'll use the `lecture/lecture.html` file contained in this repo to demonstrate. If you click through
+the repo directory structure above, it takes you to 
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
 are told that the you can't view big raw files. Cue: sad face. Let's fix that!
 
@@ -52,7 +52,7 @@ the `Options` sub-menu on the left (we're still in the `Settings` menu at this p
 all the way down to the `GitHub Pages` section, it will tell you where that is.
 
 For most people, the default publish location will be `USERNAME.github.io/REPONAME`. In my case, I
-have a custom domain that redirects to things to `grantmcdermott.com/example`. So that means I can 
+have a custom domain that redirects things to `grantmcdermott.com/example`. So that means I can 
 view the files at:
 
 http://grantmcdermott.com/example/lecture/lecture.hmtl
