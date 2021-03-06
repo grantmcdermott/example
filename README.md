@@ -46,8 +46,8 @@ Brief steps as follows:
 - Next click on on the `Settings` link at the top right of the page.
   - Click the `Branches` sub-menu on the left.
   - Then switch the default branch from "master" to your new "gh-pages" branch. (Click the "I 
-  understand..." botton when prompted).
-- Your repo should now be pulished at your default GitHub Pages site. To see what this is, click on
+  understand..." button when prompted).
+- Your repo should now be published at your default GitHub Pages site. To see what this is, click on
 the `Options` sub-menu on the left (we're still in the `Settings` menu at this point). If you scroll
 all the way down to the `GitHub Pages` section, it will tell you where that is.
 
