@@ -55,7 +55,7 @@ For most people, the default publish location will be `USERNAME.github.io/REPONA
 have a custom domain that redirects things to `grantmcdermott.com/example`. So that means I can 
 view the files at:
 
-http://grantmcdermott.com/example/lecture/lecture.hmtl
+http://grantmcdermott.com/example/lecture/lecture.html
 
 and
 
