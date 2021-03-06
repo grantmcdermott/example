@@ -14,6 +14,8 @@ the repo directory structure above, it takes you to
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
 are told that the you can't view big raw files. Cue: sad face. Let's fix that!
 
+![](example-01.gif)
+
 ### Option 1: raw.githack.com
 
 The quick and dirty way to get around this problem is to lean on https://raw.githack.com. Basically,
@@ -33,6 +35,8 @@ https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.html
 Click on the second link yourself to see how much we are winning. You can similarly do so for the 
 [PDF](https://raw.githack.com/grantmcdermott/example/master/lecture/lecture.pdf) version and see that
 it renders in-browser with options to print, resize, etc.
+
+![](example-02.gif)
 
 ### Option 2: Switch to gh-pages branch
 
@@ -60,3 +64,5 @@ http://grantmcdermott.com/example/lecture/lecture.html
 and
 
 http://grantmcdermott.com/example/lecture/lecture.pdf
+
+![](example-03.gif)
