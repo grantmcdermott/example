@@ -9,6 +9,8 @@ you might for PDFs rendered in your browser).
 
 Luckily, there are two easily solutions. This repo aims to show off both.
 
+### Motivation
+
 I'll use the `lecture/lecture.html` file contained in this repo to demonstrate. If you click through
 the repo directory structure above, it takes you to 
 [this location](https://github.com/grantmcdermott/example/blob/master/lecture/lecture.html) and you
